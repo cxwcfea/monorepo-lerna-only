@@ -1,0 +1,26 @@
+{
+  "name": "aloha-world",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "cxwcfea <cxwcfea@163.com>",
+  "homepage": "https://github.com/cxwcfea/monorepo-lerna-only#readme",
+  "license": "ISC",
+  "main": "lib/aloha-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxwcfea/monorepo-lerna-only.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cxwcfea/monorepo-lerna-only/issues"
+  }
+}
